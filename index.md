@@ -21,7 +21,6 @@ Welcome to Loop, we're glad to have you! If you haven't already, please visit ht
 6. From there, you're ready to stream!
 
 ## Multi-Streaming
-**This section is WIP until multi-streaming is fully functional on our website**
 Now that you know how to stream with one input, you can start to use our Multi-Streaming features!
 
 Before you begin this step, make sure you've installed the **Branch Output** plugin found in the [Prerequisites](#Prerequisites) section. Scroll down in the linked GitHub page, and download the installer for your operating system.
