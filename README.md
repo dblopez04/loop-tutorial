@@ -1,7 +1,3 @@
----
-layout: home
----
-
 ## Prerequisites
 - [OBS Studio](https://obsproject.com/)
 - [Branch Output for OBS](https://github.com/OPENSPHERE-Inc/branch-output/releases)
