@@ -1,4 +1,6 @@
-# Streaming on Loop
+---
+layout: home
+---
 
 ## Prerequisites
 - [OBS Studio](https://obsproject.com/)
