@@ -1,0 +1,7 @@
+theme: minima
+title: Your Tutorial Title
+description: A brief description of what this tutorial covers
+
+# Optional but nice for tutorials
+markdown: kramdown
+highlighter: rouge
